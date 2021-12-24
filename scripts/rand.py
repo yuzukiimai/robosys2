@@ -12,4 +12,3 @@ while not rospy.is_shutdown():
     n = random.randint(1,100)
     pub.publish(n)
     rate.sleep()
-
