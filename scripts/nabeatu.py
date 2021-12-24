@@ -9,9 +9,9 @@ def cb(message):
     global n
     n = message.data
 
-rospy.init_node('nabeatu')
+rospy.init_node('nabe')
 sub = rospy.Subscriber('rand_number', Int32, cb)
-pub = rospy.Publisher('nabeatu', Int32, queue_size=1)
+pub = rospy.Publisher('atu', Int32, queue_size=1)
 rate = rospy.Rate(1)
 while not rospy.is_shutdown():
     if n % 3 == 0 and n != 0:
