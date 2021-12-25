@@ -78,4 +78,4 @@ ___
 ## デモ動画
 
 ## ライセンス
-[BSD 3-Clause License]()
+[BSD 3-Clause License](https://github.com/yuzukiimai/robosys2/blob/master/LICENSE)
