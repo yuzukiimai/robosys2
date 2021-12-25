@@ -24,6 +24,8 @@ ___
 
 ### 【インストール】
 
+以下のコマンドを実行してください。
+
 ``` 
 $ cd ~/catkin_ws/src
 
@@ -32,6 +34,12 @@ $ git clone https://github.com/yuzukiimai/robosys2.git
 $ cd ..
 
 $ catkin_make
-
 ```
+___
+
+### 【実行】
+
+※ページ下に実行時の動画があります。
+
+インストール後に以下のコマンドを実行してください。
 
