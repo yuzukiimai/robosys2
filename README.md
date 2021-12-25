@@ -45,7 +45,7 @@ ___
 
 ___
 
-1. 端末①でroscoreを立ち上げる。
+#### 1. 端末①でroscoreを立ち上げる
 
 ```
 $ roscore
@@ -53,7 +53,7 @@ $ roscore
 
 ___
 
-2. 端末②でrand.pyのプログラムを立ち上げる。
+#### 2. 端末②でrand.pyのプログラムを立ち上げる
 
 ```
 $ rosrun robosys2 rand.py
@@ -61,14 +61,14 @@ $ rosrun robosys2 rand.py
 
 ___
 
-3. 端末③でrand.pyの出力を確認する。
+#### 3. 端末③でrand.pyの出力を確認する
 ```
 $ rostopic echo /rand_number
 ```
 
 ___
 
-4. 端末④でnabeatu.pyのプログラムを立ち上げる。
+#### 4. 端末④でnabeatu.pyのプログラムを立ち上げる
 ```
 $ rosrun robosys2 nabeatu.py
 ```
