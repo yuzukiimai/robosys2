@@ -26,17 +26,12 @@ ___
 
 ``` 
 $ cd ~/catkin_ws/src
-```
 
-```
 $ git clone https://github.com/yuzukiimai/robosys2.git 
-```
 
-```
 $ cd ..
-```
 
-```
 $ catkin_make
+
 ```
 
