@@ -10,3 +10,13 @@
 
 ___
 
+## 動作環境
+- Raspberry Pi 3 Model B
+- ubuntu 20.04 server
+- ROS Noetic
+- Python 3
+
+___
+
+
+
